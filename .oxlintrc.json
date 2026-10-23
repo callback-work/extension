@@ -1,0 +1,10 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "extends": [
+    "./node_modules/config-oxc/configs/app.json",
+    "./node_modules/config-oxc/configs/react.json",
+    "./node_modules/config-oxc/configs/a11y.json"
+  ],
+  "options": { "typeAware": true },
+  "ignorePatterns": [".output/**", ".wxt/**"]
+}
