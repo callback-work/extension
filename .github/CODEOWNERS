@@ -1,0 +1,7 @@
+*                 @callback-work/core
+
+/.github/         @callback-work/core
+/.oxlintrc.json   @callback-work/core
+/.oxfmtrc.json    @callback-work/core
+/wxt.config.ts    @callback-work/core
+/package.json     @callback-work/core
